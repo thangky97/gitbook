@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduce](README.md)
+* [about](README.md)
 * [V-QUANTUM Book](introduce/v-quantum-book.md)
 
